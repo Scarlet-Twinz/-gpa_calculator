@@ -53,3 +53,9 @@ No build tools or dependencies are required.
 **Anthony Emmanuella Mmasinachi**
 
 GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/-gpa_calculator
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
