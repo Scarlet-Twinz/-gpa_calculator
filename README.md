@@ -35,8 +35,12 @@ For each course, the application multiplies the course units by the selected gra
 
 No build tools or dependencies are required.
 
-1. Clone the repository.
-2. Open `index.html` in a modern web browser.
+```bash
+git clone https://github.com/Scarlet-Twinz/-gpa_calculator.git
+cd -gpa_calculator
+```
+
+Open `index.html` in a modern web browser.
 3. Add your courses and units, select the corresponding grades, and choose **Calculate GPA**.
 
 ## Project Structure
